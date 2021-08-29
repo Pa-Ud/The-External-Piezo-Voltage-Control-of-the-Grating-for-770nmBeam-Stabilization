@@ -1,3 +1,4 @@
+//Author Dr Matthew Harvey, United Kingdoms, 2018
 #ifndef SERIALCHECKER_H
 #define SERIALCHECKER_H
 
