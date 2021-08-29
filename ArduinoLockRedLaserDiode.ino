@@ -1,4 +1,6 @@
 //Lock Red Laser Diode
+//Author Mr Parinya Udommai, 
+//This code is to be uploaded in the Arduino Nano via Arduino ide.
 //LabView measures Laser diode wavelength and calculates feedback to lock it.
 //LabView send 12-bit value to Nano to set DAC via serial comm.
 //Nano provides output voltage to the Piezo of red laser diode.
